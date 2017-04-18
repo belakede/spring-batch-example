@@ -1,0 +1,5 @@
+me:
+  belakede:
+    batch:
+      input:
+        csv: /person.csv
