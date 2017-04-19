@@ -3,3 +3,6 @@ me:
     batch:
       input:
         csv: /person.csv
+      output:
+        separator: ","
+        csv: candidates.csv
